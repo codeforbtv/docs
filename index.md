@@ -42,6 +42,8 @@ The local cloud initiative will provide cloud computing resources for Internet a
 Strategy
 --------
 
+### What
+
 The local cloud initiative aims to colocate a server rack within Burlington Telecom's network operations center. This would place the local cloud within the core of Burlington's gigabit network. This approach has several advantages:
 
 * Redundant infrastructure (battery backup, dedicated generator, air conditioning)
@@ -49,6 +51,8 @@ The local cloud initiative aims to colocate a server rack within Burlington Tele
 * Lower latency
 
 To make colocation practical, Burlington Telecom will likely need to limit physical access to the server rack. Redundant hardware and virtualization of computing resources can make it possible to limit physical access to scheduled maintenance windows. An agreement on emergency maintenance should be reached, but the infrastructure should be designed to avoid emergency maintenance as much as possible.
+
+### How
 
 ![cloud computing layers](http://upload.wikimedia.org/wikipedia/commons/3/3c/Cloud_computing_layers.png "cloud computing layers")
 
