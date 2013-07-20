@@ -43,7 +43,7 @@ To make colocation practical, Burlington Telecom will likely need to limit physi
 
 ![cloud computing layers](http://upload.wikimedia.org/wikipedia/commons/3/3c/Cloud_computing_layers.png "cloud computing layers")
 
-Infrastructure as a Service (IaaS), the basic building block of cloud computing, will be the first cloud computing resource provided by the local cloud. This will be a set of virtual machines running on top of the physical hardware. Lakecraft, a Code for BTV project, could be a pilot application run on the IaaS layer.
+Infrastructure as a Service (IaaS), the basic building block of cloud computing, will be the first cloud computing resource provided by the local cloud. This will be a set of virtual machines running on top of the physical hardware. Lakecraft, a Code for BTV project, could be a pilot application run on the IaaS layer. Lakecraft is an educational tool that engages youth and adults in science by gamifying the Lake Champlain Basin.
 
 On top of the IaaS layer, one or more Platform as a Service (PaaS) offerings could be provided. Web hosting would be one example of a PaaS, but there are much more sophisticated forms of PaaS as well. A basic Linux, Apache, MySQL, and PHP (LAMP) PaaS could be provided to the Vermont Digital Economy Project for non-governmental organization web hosting.
 
