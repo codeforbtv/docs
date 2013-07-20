@@ -52,6 +52,12 @@ The local cloud initiative aims to colocate a server rack within Burlington Tele
 
 To make colocation practical, Burlington Telecom will likely need to limit physical access to the server rack. Redundant hardware and virtualization of computing resources can make it possible to limit physical access to scheduled maintenance windows. An agreement on emergency maintenance should be reached, but the infrastructure should be designed to avoid emergency maintenance as much as possible.
 
+### Who
+
+The local cloud should be administered by an organization with experience in managing access to communication media for the public interest. Public, educational, and governmental (PEG) access television has a long history of managing the public's access to non-commercial mass media. In Vermont, an organization that takes on this responsibility is referred to as an access management organization. Burlington's access management organizations are VCAM (public), RETN (education), and CCTV (government).
+
+Television was the fifth form of mass media to be introduced (after print, recordings, cinema, and then radio). It took until the 1970s, twenty years after the introduction of television, for PEG access to start to take shape. After television, the Internet was the next form of mass media to be introduced emerging in the 1990s (the Internet existed long before the 1990s, but not as a form of mass media). Now, twenty years later, the local cloud could serve as a model for PEG access to the Internet as a form of mass media.
+
 ### How
 
 ![cloud computing layers](http://upload.wikimedia.org/wikipedia/commons/3/3c/Cloud_computing_layers.png "cloud computing layers")
