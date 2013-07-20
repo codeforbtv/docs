@@ -11,6 +11,13 @@ Strategic Plan
 Contribute to this strategic plan by forking this document on GitHub:  
 <https://github.com/codeforbtv>
 
+Background
+----------
+
+The Vermont Digital Economy Project has recognized that communities with digitally connected non-governmental organizations are more resilient after a disaster, such as Tropical Storm Irene. Collaborating with the Vermont Digital Economy Project, volunteers working with Code for BTV, a Code for America Brigade, built websites for three non-governmental organizations during the National Day of Civic Hacking in June of 2013. These organization were Deerfield Valley Rescue, Bethel Food Shelf, and the Woodstock Job Bank. Since the National Day of Civic Hacking, Code for BTV volunteers have improved these websites, built a fourth website, and started on a fifth website. These websites are helping to make Vermont communities more resilient.
+
+Through this process two things became clear. One, there is no shortage of similar organizations in need of websites. Two, finding affordable hosting for these websites is a challenge.
+
 Vision
 ------
 
