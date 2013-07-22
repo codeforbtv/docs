@@ -18,7 +18,7 @@ Background
 
 The Vermont Digital Economy Project has recognized that communities with digitally connected non-governmental organizations are more resilient after a disaster, such as Tropical Storm Irene. Collaborating with the Vermont Digital Economy Project, volunteers working with Code for BTV, a Code for America Brigade, have built or improved websites for five non-governmental organizations. These organization are Deerfield Valley Rescue, Bethel Food Shelf, Woodstock Job Bank, Woodstock Community Food Shelf, and Black River Academy Museum. These websites are helping to make Vermont communities more resilient.
 
-Through this process two things became clear. One, there is no shortage of similar organizations in need of websites. Two, finding affordable hosting for these websites is a challenge.
+Through this process two things became clear. One, there is no shortage of similar organizations in need of websites. Two, finding hosting for these websites is a challenge. The Vermont Digital Economy Project is able to procure free out-of-state hosting for each organization individually, but this hosting does not allow for the installation of WordPress multisite. WordPress multisite would make the websites much easier to create and maintain as a separate hosting environment would not have to be provisioned for each organization. Having all of the websites hosted together would allow the Vermont Digital Economy Project to improve security, provide options for disaster response, share content between organizations, and more easily link the organizations together.
 
 Vision
 ------
