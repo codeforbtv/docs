@@ -20,6 +20,8 @@ The Vermont Digital Economy Project has recognized that communities with digital
 
 Through this process two things became clear. One, there is no shortage of similar organizations in need of websites. Two, finding hosting for these websites is a challenge. The Vermont Digital Economy Project is able to procure free out-of-state hosting for each organization individually, but this hosting does not allow for the installation of WordPress multisite. WordPress multisite would make the websites much easier to create and maintain as a separate hosting environment would not have to be provisioned for each organization. Having all of the websites hosted together would allow the Vermont Digital Economy Project to improve security, provide options for disaster response, share content between organizations, and more easily link the organizations together.
 
+Many of these same organizations lost a great deal of data during Tropical Storm Irene including donor lists, photos, and other information critical to their operations. In addition to web hosting, there is also a need for cloud storage and backup services. Local cloud hosting, cloud storage, and cloud backup services available to Vermont's non-governmental organizations (and possibly local governments) would make this state a leader in resilience to natural disasters.
+
 Vision
 ------
 
