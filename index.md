@@ -16,7 +16,7 @@ This work is licensed under the Creative Commons Attribution 3.0 Unported licens
 Background
 ----------
 
-The Vermont Digital Economy Project has recognized that communities with digitally connected non-governmental organizations are more resilient after a disaster, such as Tropical Storm Irene. Collaborating with the Vermont Digital Economy Project, volunteers working with Code for BTV, a Code for America Brigade, have built or improved websites for five non-governmental organizations. These organization are Deerfield Valley Rescue, Bethel Food Shelf, Woodstock Job Bank, Woodstock Community Food Shelf, and Black River Academy Museum. These websites are helping to make Vermont communities more resilient.
+The [Vermont Digital Economy Project](http://vtrural.org/programs/digital-economy) has recognized that communities with digitally connected non-governmental organizations are more resilient after a disaster, such as Tropical Storm Irene. Collaborating with the Vermont Digital Economy Project, volunteers working with [Code for BTV](http://codeforbtv.org/), a Code for America Brigade, have built or improved websites for five non-governmental organizations. These organization are Deerfield Valley Rescue, Bethel Food Shelf, Woodstock Job Bank, Woodstock Community Food Shelf, and Black River Academy Museum. These websites are helping to make Vermont communities more resilient.
 
 Through this process two things became clear. One, there is no shortage of similar organizations in need of websites. Two, finding hosting for these websites is a challenge. The Vermont Digital Economy Project is able to procure free out-of-state hosting for each organization individually, but this hosting does not allow for the installation of WordPress multisite. WordPress multisite would make the websites much easier to create and maintain as a separate hosting environment would not have to be provisioned for each organization. Having all of the websites hosted together would allow the Vermont Digital Economy Project to improve security, provide options for disaster response, share content between organizations, and more easily link the organizations together.
 
@@ -25,7 +25,7 @@ Many organizations lost a great deal of data during Tropical Storm Irene includi
 Vision
 ------
 
-Burlington has its own gigabit network that passes between 85% and 90% of the addresses in the city. In partnership with US Ignite, Burlington's gigabit network is a test bed for "[fostering] the creation of next-generation Internet applications that provide transformative public benefit."
+Burlington has its own gigabit network that passes between 85% and 90% of the addresses in the city. In partnership with [US Ignite](http://us-ignite.org/), Burlington's gigabit network is a test bed for "[fostering] the creation of next-generation Internet applications that provide transformative public benefit."
 
 Many of today's Internet applications are hosted in cloud computing environments. Cloud computing is a utility model that reduces costs by sharing resources and leveraging economies of scale. Many next-generation Internet applications will continue to choose the cloud computing model.
 
@@ -34,7 +34,7 @@ There are only a handful of gigabit networks throughout the country. Given the s
 Values
 ------
 
-The local cloud initiative is being facilitated by Code for BTV, a Code for America Brigade, as well as community media organizations in Burlington. Both CCTV Center for Media & Democracy and Big Heavy World have discussed providing resources to this initiative. Code for BTV values participatory government and civic engagement. CCTV Center for Media & Democracy values free speech, public access, and open networks. Big Heavy World values the potential of Vermont's youth, self-worth, diversity, positivity, civic participation, independent thought, and community. All involved in this initiative value digital inclusion. Digital inclusion is social inclusion for the digital age, a proactive effort to mitigate the causes of social exclusion.
+The local cloud initiative is being facilitated by Code for BTV, a Code for America Brigade, as well as community media organizations in Burlington. Both [CCTV Center for Media & Democracy](http://www.cctv.org/) and [Big Heavy World](http://bigheavyworld.com/) have discussed providing resources to this initiative. Code for BTV values participatory government and civic engagement. CCTV Center for Media & Democracy values free speech, public access, and open networks. Big Heavy World values the potential of Vermont's youth, self-worth, diversity, positivity, civic participation, independent thought, and community. All involved in this initiative value digital inclusion. Digital inclusion is social inclusion for the digital age, a proactive effort to mitigate the causes of social exclusion.
 
 Mission
 -------
@@ -46,7 +46,7 @@ Strategy
 
 ### What
 
-The local cloud initiative aims to colocate a server rack within Burlington Telecom's network operations center. This would place the local cloud within the core of Burlington's gigabit network. This approach has several advantages:
+The local cloud initiative aims to colocate a server rack within [Burlington Telecom](http://www.burlingtontelecom.net/)'s network operations center. This would place the local cloud within the core of Burlington's gigabit network. This approach has several advantages:
 
 * Redundant infrastructure (battery backup, dedicated generator, air conditioning)
 * Higher throughput
@@ -56,7 +56,7 @@ To make colocation practical, Burlington Telecom will likely need to limit physi
 
 ### Who
 
-The local cloud should be administered by an organization with experience in managing access to communication media for the public interest. Public, educational, and governmental (PEG) access television has a long history of managing the public's access to non-commercial mass media. In Vermont, an organization that takes on this responsibility is referred to as an access management organization. Burlington's access management organizations are VCAM (public), RETN (education), and CCTV (government).
+The local cloud should be administered by an organization with experience in managing access to communication media for the public interest. Public, educational, and governmental (PEG) access television has a long history of managing the public's access to non-commercial mass media. In Vermont, an organization that takes on this responsibility is referred to as an access management organization. Burlington's access management organizations are [VCAM](http://www.vermontcam.org/) (public), [RETN](http://www.retn.org/) (education), and CCTV (government).
 
 Television was the fifth form of mass media to be introduced (after print, recordings, cinema, and then radio). It took until the 1970s, twenty years after the introduction of television, for PEG access to start to take shape. After television, the Internet was the next form of mass media to be introduced emerging in the 1990s (the Internet existed long before the 1990s, but not as a form of mass media). Now, twenty years later, the local cloud could serve as a model for PEG access to the Internet as a form of mass media.
 
