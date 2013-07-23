@@ -75,7 +75,7 @@ While the local cloud initiative is focused on next-generation connectivity, loc
 Applications
 ------------
 
-Following are some potential applications of a local cloud. While the most interesting and innovative applications might be those of which we have not yet conceived, it is a useful exercise to identify potential applications here and now. Some of these applications would run directly on the IaaS layer, otherwise might run on a PaaS layer.
+Following are some potential applications of a local cloud. While the most interesting and innovative applications might be those of which we have not yet conceived, it is a useful exercise to identify potential applications here and now. Some of these applications would run directly on the IaaS layer, others might run on a PaaS layer.
 
 ### Lakecraft
 
