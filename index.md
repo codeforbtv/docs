@@ -83,7 +83,7 @@ Lakecraft, a Code for BTV project, is an educational tool that engages youth and
 
 ### WordPress Multisite
 
-Code for BTV and the Vermont Digital Economy Project could maintain several WordPress multisite installs, each for a separate non-governmental organization "vertical." Rescue squads, food shelves, job banks, and historical societies could each have their own WordPress multisite install. A food shelf, for example, in need of a new website could have this website provisioned as part of the WordPress food shelf multisite install. WordPress multisite would make the websites much easier to create and maintainn. Having all of the websites hosted together would allow the Vermont Digital Economy Project to improve security, provide options for disaster response, share content between organizations, and more easily link the organizations together.
+Code for BTV and the Vermont Digital Economy Project could maintain several WordPress multisite installs, each for a separate non-governmental organization "vertical." Rescue squads, food shelves, job banks, and historical societies could each have their own WordPress multisite install. A food shelf, for example, in need of a new website could have this website provisioned as part of the WordPress food shelf multisite install. WordPress multisite would make the websites much easier to create and maintain. Having all of the websites hosted together would allow the Vermont Digital Economy Project to improve security, provide options for disaster response, share content between organizations, and more easily link the organizations together.
 
 ### Green Up Vermont
 
