@@ -1,4 +1,4 @@
-Local Cloud
-===========
+Code for BTV Documents
+======================
 
-[Strategic Plan](http://codeforbtv.org/local-cloud/)
+[Documents](http://codeforbtv.org/docs/)
