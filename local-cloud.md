@@ -1,4 +1,5 @@
 ---
+permalink: /local-cloud/
 layout: default
 title: Local Cloud for Burlington, Vermont
 ---
