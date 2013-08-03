@@ -1,7 +1,7 @@
 ---
 permalink: /local-cloud/
 layout: default
-title: Local Cloud for Burlington, Vermont
+title: Local Cloud for Burlington, Vermont (Strategic Plan)
 ---
 
 Local Cloud for Burlington, Vermont
