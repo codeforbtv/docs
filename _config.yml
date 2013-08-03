@@ -1,0 +1,4 @@
+safe: true
+lsi: false
+pygments: false
+exclude: LICENSE.md, README.md
