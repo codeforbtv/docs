@@ -1,0 +1,15 @@
+---
+permalink: /
+layout: default
+title: Code for BTV Documents
+---
+
+<h1>Code for BTV Documents</h1>
+
+<ul>
+{% for node in site.pages %}
+{%  if nil != node.title and '/' != node.url %}
+    <li><a href="{{ node.url }}">{{ node.title }}</a></li>
+{%  endif %}
+{% endfor %}
+</ul>
