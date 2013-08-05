@@ -87,3 +87,13 @@ Phase 2 will involve more public facing activities including:
 * Additional public, educational, and government applications deployed
 * Outreach to organizations and individuals who could use the local cloud
 * Organic expansion of services based on community needs
+
+#### Phase 3: Sustain
+
+The main goal of phase 3 will be to develop a plan for the long term sustainability of the local cloud. This will include finding sustainable funding sources, defining the governance structure, and defining the identity for the local cloud collaborative moving forward.
+
+During phase 3:
+
+* Additional servers will be added to the local cloud, expanding its capacity
+* Over time, old servers will be replaced with new servers
+* A Platform as a Service (PaaS) layer may be added
