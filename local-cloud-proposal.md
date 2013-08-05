@@ -14,11 +14,13 @@ Contribute to this proposal by forking this document on GitHub:
 
 This work is licensed under the Creative Commons Attribution 3.0 Unported license (<http://creativecommons.org/licenses/by/3.0/>).
 
-### Summary
+Summary
+-------
 
 The local cloud collaborative proposes to colocate a server rack within Burlington Telecom's gigabit network. Using this server rack, the local cloud collaborative will make cloud computing resources available for non-commercial Internet applications with a focus on public, educational, and government access. With an uplink to Burlington Telecom's gigabit network, the local cloud will provide the infrastructure and platform on which to deploy next-generation Internet applications.
 
-### Introduction
+Introduction
+------------
 
 Burlington has one of a handful of gigabit networks in the country. These gigabit networks are islands of super-fast connectivity. It is only within (and to some extent between) these networks that the true potential of gigabit can currently be realized. Until the rest of the Internet catches up, the potential of Burlington Telecom's gigabit network can only be realized with applications deployed inside the network.
 
@@ -32,7 +34,8 @@ One unique benefit of the local cloud would be in the area of public safety. The
 
 Many organizations lost a great deal of data during Tropical Storm Irene including donor lists, photos, and other information critical to their operations. In addition to web hosting, services such as cloud storage and cloud backup could be provided in the local cloud. Local cloud hosting, cloud storage, and cloud backup services available to Vermont’s non-governmental organizations (and possibly local governments) would make Vermont a leader in resilience to natural disasters.
 
-### Approach
+Approach
+--------
 
 ![cloud computing layers](http://upload.wikimedia.org/wikipedia/commons/3/3c/Cloud_computing_layers.png "cloud computing layers")
 
