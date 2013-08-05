@@ -97,3 +97,14 @@ During phase 3:
 * Additional servers will be added to the local cloud, expanding its capacity
 * Over time, old servers will be replaced with new servers
 * A Platform as a Service (PaaS) layer may be added, making it easier for developers to deploy applications written in common programming languages
+
+Requirements
+------------
+
+The following will be required from Burlington Telecom in order to make the local cloud possible:
+
+* Physical space for a rack enclosure (42U)
+* Electricity with battery backup and generator (32A @ 110V)
+* Air conditioning (12,000 BTU/h)
+* Gigabit uplink (1000BASE-T)
+* IPv4 address block
