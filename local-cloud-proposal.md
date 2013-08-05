@@ -36,7 +36,7 @@ Many organizations lost a great deal of data during Tropical Storm Irene includi
 
 ![cloud computing layers](http://upload.wikimedia.org/wikipedia/commons/3/3c/Cloud_computing_layers.png "cloud computing layers")
 
-The first cloud computing resource provided by the local cloud will be an Infrastructure as a Service (IaaS) layer. This layer will most likely be managed by OpenStack, an open source software project backed by more than 200 companies. The IaaS layer will make it technically possible to run almost any application.
+The first cloud computing resource provided by the local cloud will be an Infrastructure as a Service (IaaS) layer. This layer will most likely be managed by OpenStack, an open source software project backed by more than 200 companies. The IaaS layer will make it technically possible to run almost any application in the local cloud.
 
 In the future, the local cloud may also host a Platform as a Service (PaaS) layer. The PaaS layer would most likely be managed by OpenShift Origin which would make it easier to deploy applications written in common programming languages such as Node.js, Ruby, Python, PHP, Perl, or Java. OpenShift Origin also supports several common databases including MySQL, PostgreSQL, and MongoDB.
 
