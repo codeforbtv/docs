@@ -63,3 +63,9 @@ During phase 1:
 * Only non-critical applications will be deployed
 * No email applications will be allowed (e.g. SMTP, CRM, mailing lists)
 * Only Infrastructure as a Service (IaaS) will be provided (i.e. no PaaS layer)
+
+Specific applications targeted for deployment in phase 1 include:
+
+* Live streaming for public, educational, and government access
+* WordPress Multisite for statewide verticals (e.g. rescue squads, food shelves, job banks, historical societies)
+* Lakecraft
