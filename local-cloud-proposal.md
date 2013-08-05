@@ -108,3 +108,20 @@ The following will be required from Burlington Telecom in order to make the loca
 * Air conditioning (12,000 BTU/h)
 * Gigabit uplink (1000BASE-T)
 * IPv4 address block
+
+Potential Collaborators
+-----------------------
+
+* Big Heavy World
+* BTV Gig
+* Burlington Telecom
+* CCTV Center for Media & Democracy
+* City of Burlington
+* Code for BTV
+* Fletcher Free Library
+* Found Line
+* Laboratory B
+* RETN
+* US Ignite
+* VCAM
+* Vermont Digital Economy Project
