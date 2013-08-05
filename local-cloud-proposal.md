@@ -17,7 +17,7 @@ This work is licensed under the Creative Commons Attribution 3.0 Unported licens
 Summary
 -------
 
-The local cloud collaborative proposes to colocate a server rack within Burlington Telecom's gigabit network. Using this server rack, the local cloud collaborative will make cloud computing resources available for non-commercial Internet applications with a focus on public, educational, and government access. With an uplink to Burlington Telecom's gigabit network, the local cloud will provide the infrastructure and platform on which to deploy next-generation Internet applications.
+The local cloud collaborative proposes to colocate a server rack within Burlington Telecom's gigabit network. Using this server rack, the local cloud collaborative will make cloud computing resources available for non-commercial Internet applications with a focus on public, educational, and government access. With an uplink to Burlington Telecom's gigabit network, the local cloud will provide the infrastructure on which to deploy next-generation Internet applications. The local cloud will be a platform for collaborative innovation while demonstrating the potential of Burlington's gigabit network.
 
 Introduction
 ------------
