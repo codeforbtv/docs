@@ -63,6 +63,7 @@ During phase 1:
 * Only non-critical applications will be deployed
 * No email applications will be allowed (e.g. SMTP, CRM, mailing lists)
 * Only Infrastructure as a Service (IaaS) will be provided (i.e. no PaaS layer)
+* An internal storage area network (SAN) will be used
 
 Specific applications targeted for deployment in phase 1 include:
 
