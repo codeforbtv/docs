@@ -40,4 +40,4 @@ The first cloud computing resource provided by the local cloud will be an Infras
 
 In the future, the local cloud may also host a Platform as a Service (PaaS) layer. The PaaS layer would most likely be managed by OpenShift Origin. This would make it easier to deploy applications written in common programming languages such as Node.js, Ruby, Python, PHP, Perl, or Java. OpenShift Origin also supports several common databases including MySQL, PostgreSQL, and MongoDB.
 
-The IaaS and PaaS layers will allow developers to deploy Software as a Service (SaaS) applications in the local cloud. When the average person uses the word "cloud" they are typically referring to the SaaS layer of the cloud. A wide variety of innovative SaaS applications could be hosted in the local cloud.
+The IaaS and PaaS layers will allow developers to deploy Software as a Service (SaaS) applications in the local cloud. When the average person uses the word "cloud" they are typically referring to the SaaS layer of the cloud. A wide variety of innovative SaaS applications could be hosted in the local cloud with direct access to Burlington Telecom's gigabit network.
