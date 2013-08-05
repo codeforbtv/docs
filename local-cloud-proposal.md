@@ -71,3 +71,19 @@ Specific applications targeted for deployment in phase 1 include:
 * Live streaming for public, educational, and government access
 * WordPress Multisite for statewide verticals (e.g. rescue squads, food shelves, job banks, historical societies)
 * Lakecraft
+
+#### Phase 2: Implement
+
+While phase 1 will be bootstrapped, phase 2 will involve finding seed money to cover expenses for a limited period of time.
+
+During phase 2:
+
+* Additional capacity will be added to the internal storage area network (SAN)
+* Components will be standardized and technical oversight processes will be developed
+* Service continuity will be an area of priority
+
+Phase 2 will involve more public facing activities including:
+
+* Additional public, educational, and government applications deployed
+* Outreach to organizations and individuals who could use the local cloud
+* Organic expansion of services based on community needs
