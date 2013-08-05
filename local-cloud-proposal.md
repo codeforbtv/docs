@@ -48,3 +48,18 @@ The IaaS and PaaS layers will allow developers to deploy Software as a Service (
 ### Plan
 
 The local cloud collaborative will break its work into three phases. Phase 1 (pilot) will be made possible by volunteers, equipment donations, and service donations. Phase 2 (implement) will involve seed money to compensate for the staff time of contributing organizations and any additional capital expenses. Phase 3 (sustain) will focus on finding sustainable funding sources and defining the governance structure for the local cloud collaborative.
+
+#### Phase 1: Pilot
+
+This phase will be bootstrapped by volunteers and donations. The following physical infrastructure will be required (a check indicates this equipment has already been procured):
+
+* \[x\] 1x rack enclosure (42U)
+* \[ \] 1x power distribution unit (PDU)
+* \[ \] 1x firewall w/ 3x gigabit NICs
+* \[ \] 2x managed L2/L3 24 port gigabit switch
+* \[x\] 3x servers
+
+During phase 1:
+* Only non-critical applications will be deployed
+* No email applications will be deployed (e.g. SMTP, CRM, mailing lists)
+* Only Infrastructure as a Service (IaaS) will be provided (i.e. no PaaS layer)
