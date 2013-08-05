@@ -60,6 +60,7 @@ This phase will be bootstrapped by volunteers and donations. The following physi
 * \[x\] 3x servers
 
 During phase 1:
+
 * Only non-critical applications will be deployed
 * No email applications will be allowed (e.g. SMTP, CRM, mailing lists)
 * Only Infrastructure as a Service (IaaS) will be provided (i.e. no PaaS layer)
