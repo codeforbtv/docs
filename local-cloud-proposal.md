@@ -39,7 +39,7 @@ Approach
 
 ![cloud computing layers](http://upload.wikimedia.org/wikipedia/commons/3/3c/Cloud_computing_layers.png "cloud computing layers")
 
-The first cloud computing resource provided by the local cloud will be an Infrastructure as a Service (IaaS) layer. This layer will most likely be managed by OpenStack, an open source software project backed by more than 200 companies. The IaaS layer will make it technically possible to run almost any application in the local cloud.
+Initially, the local cloud will provide virtual servers that are manually provisioned. Later, the local cloud will provide an Infrastructure as a Service (IaaS) cloud computing resource. This layer will most likely be managed by OpenStack, an open source software project backed by more than 200 companies. This approach will make it technically possible to run almost any application in the local cloud. 
 
 In the future, the local cloud may also host a Platform as a Service (PaaS) layer. The PaaS layer would most likely be managed by OpenShift Origin. This would make it easier to deploy applications written in common programming languages such as Node.js, Ruby, Python, PHP, Perl, or Java. OpenShift Origin also supports several common databases including MySQL, PostgreSQL, and MongoDB.
 
@@ -61,10 +61,9 @@ This phase will be bootstrapped by volunteers and donations. The following physi
 
 During phase 1:
 
+* Virtual servers will be manually provisioned using an OpenStack compatible KVM hypervisor, but there will be no IaaS layer
 * Only non-critical applications will be deployed
 * No email applications will be allowed (e.g. SMTP, CRM, mailing lists)
-* Only Infrastructure as a Service (IaaS) will be provided (i.e. no PaaS layer)
-* An internal storage area network (SAN) will be used
 
 Specific applications targeted for deployment in phase 1 include:
 
@@ -78,7 +77,8 @@ While phase 1 will be bootstrapped, phase 2 will involve finding seed money to c
 
 During phase 2:
 
-* Additional capacity will be added to the internal storage area network (SAN)
+* An internal storage area network (SAN) will be added
+* An Infrastructure as a Service (IaaS) layer will be added, but there will be no PaaS layer
 * Components will be standardized and technical oversight processes will be developed
 * Service continuity will be an area of priority
 
@@ -94,6 +94,7 @@ The main goal of phase 3 will be to develop a plan for the long term sustainabil
 
 During phase 3:
 
+* Additional capacity will be added to the internal storage area network (SAN)
 * Additional servers will be added to the local cloud, expanding its capacity
 * Over time, old servers will be replaced with new servers
 * A Platform as a Service (PaaS) layer may be added, making it easier for developers to deploy applications written in common programming languages
