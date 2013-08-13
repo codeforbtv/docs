@@ -111,20 +111,24 @@ The following will be required from Burlington Telecom in order to make the loca
 * Gigabit uplink (1000BASE-T)
 * IPv4 address block
 
-Potential Collaborators
------------------------
+Producers and Partners (Proposed)
+---------------------------------
 
 * Big Heavy World
-* BTV Gig
 * Burlington Telecom
 * CCTV Center for Media & Democracy
 * City of Burlington
 * Code for BTV
-* Fletcher Free Library
 * Found Line
 * Laboratory B
-* RETN
 * US Ignite
+
+Potential Collaborators
+-----------------------
+
+* BTV Gig
+* Fletcher Free Library
+* RETN
 * VCAM
 * Vermont Digital Economy Project
 * Vermont Resilience Lab
