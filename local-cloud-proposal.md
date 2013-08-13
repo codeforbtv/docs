@@ -113,6 +113,8 @@ The following will be required from Burlington Telecom in order to make the loca
 
 The local cloud collaborative will work with Burlington Telecom to establish regularly scheduled maintenance windows during which physical access will be provided to the rack enclosure. The local cloud collaborative will designate a technical contact with whom Burlington Telecom will communicate in regards to any technical matters.
 
+We also ask that Burlington Telecom provide gigabit service at a nominal cost to non-commercial technical collaborators. This will provide an immediate, if small, test bed for gigabit applications hosted within the local cloud.
+
 Producers and Partners (Proposed)
 ---------------------------------
 
