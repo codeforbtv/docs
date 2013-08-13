@@ -74,7 +74,7 @@ Specific applications targeted for deployment in phase 1 include:
 
 #### Phase 2: Implement
 
-While phase 1 will be bootstrapped, phase 2 will involve finding seed money to cover expenses for a limited period of time.
+While phase 1 will be bootstrapped, phase 2 will involve finding seed money to cover the buildout of the Infrastructure as a Service (IaaS) layer and ongoing expenses for a limited period of time.
 
 During phase 2:
 
