@@ -91,7 +91,7 @@ Phase 2 will involve more public facing activities including:
 
 #### Phase 3: Sustain
 
-The main goal of phase 3 will be to develop a plan for the long term sustainability of the local cloud. This will include finding sustainable funding sources, defining the governance structure, and defining the identity for the local cloud collaborative moving forward.
+The main goal of phase 3 will be to develop a plan for the long term sustainability of the local cloud. This will include finding sustainable funding sources, defining the governance structure, and defining the identity for the local cloud collaborative moving forward. Phase 3 may also include acquiring funds to buildout a Platform as a Service (PaaS) layer.
 
 During phase 3:
 
