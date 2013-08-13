@@ -125,3 +125,4 @@ Potential Collaborators
 * US Ignite
 * VCAM
 * Vermont Digital Economy Project
+* Vermont Resilience Lab
