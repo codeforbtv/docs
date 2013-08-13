@@ -99,6 +99,7 @@ During phase 3:
 * Additional servers will be added to the local cloud, expanding its capacity
 * Over time, old servers will be replaced with new servers
 * A Platform as a Service (PaaS) layer may be added, making it easier for developers to deploy applications written in common programming languages
+* Opportunities for software-defined networking (SDN) will be explored
 
 Requirements
 ------------
