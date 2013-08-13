@@ -111,6 +111,8 @@ The following will be required from Burlington Telecom in order to make the loca
 * Gigabit uplink (1000BASE-T)
 * IPv4 address block
 
+The local cloud collaborative will work with Burlington Telecom to establish regularly scheduled maintenance windows during which physical access will be provided to the rack enclosure. The local cloud collaborative will designate a technical contact with whom Burlington Telecom will communicate in regards to any technical matters.
+
 Producers and Partners (Proposed)
 ---------------------------------
 
