@@ -26,9 +26,9 @@ Burlington has one of a handful of gigabit networks in the country. These gigabi
 
 As a US Ignite Partner, the City of Burlington is looking to showcase next-generation Internet applications that provide transformative public benefit in the areas of education & workforce, energy, health, public safety, transportation, and advanced manufacturing. Applications focused on any of these areas could be hosted in the local cloud. Some examples of gigabit applications to be hosted in the local cloud include:
 
-* **Lakecraft**: educational tool that engages youth and adults in science by gamifying the Lake Champlain Basin
-* **School Juice**: application that will present the energy usage data of all area schools in a way that can be searched, accessed by API, and visualized
-* **Live Streaming**: gigabit networks would allow for 1080p (or even 4K or 8K) streaming where most existing services are limited to 720p at best
+* **Lakecraft:** educational tool that engages youth and adults in science by gamifying the Lake Champlain Basin
+* **School Juice:** application that will present the energy usage data of all area schools in a way that can be searched, accessed by API, and visualized
+* **Live Streaming:** gigabit networks would allow for 1080p (or even 4K or 8K) streaming where most existing services are limited to 720p at best
 
 One unique benefit of the local cloud would be in the area of public safety. The Vermont Digital Economy Project has found that communities with digitally connected non-governmental organizations are more resilient after natural disasters such as Tropical Storm Irene. Collaborating with the Vermont Digital Economy Project, volunteers working with Code for BTV, a Code for America Brigade, have built or improved websites for several non-governmental organizations and plan to work on many more of these websites. Having these websites hosted together in the local cloud would allow the Vermont Digital Economy Project to improve security, provide options for disaster response, share content between organizations, and more easily link the organizations together.
 
