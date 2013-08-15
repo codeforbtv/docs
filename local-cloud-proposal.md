@@ -100,8 +100,8 @@ During phase 3:
 * A Platform as a Service (PaaS) layer may be added, making it easier for developers to deploy applications written in common programming languages
 * Opportunities for software-defined networking (SDN) will be explored
 
-Requirements
-------------
+Phase 1 Requirements
+--------------------
 
 The following will be required from Burlington Telecom in order to make the Civic Cloud possible:
 
