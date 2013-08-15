@@ -106,8 +106,8 @@ Requirements
 The following will be required from Burlington Telecom in order to make the Civic Cloud possible:
 
 * Physical space for a rack enclosure (42U; 79" x 25" x 40")
-* Electricity with battery backup and generator (32A @ 110V)
-* Air conditioning (12,000 BTU/h)
+* Electricity with battery backup and generator (16A @ 110V, est.)
+* Air conditioning (6,000 BTU/h, est.)
 * Gigabit uplink (1000BASE-T)
 * IPv4 address block
 
