@@ -57,7 +57,7 @@ This phase will be bootstrapped by volunteers and donations. The following physi
 * \[x\] 1x power distribution unit (PDU)
 * \[x\] 1x firewall w/ 3x gigabit NICs
 * \[x\] 2x managed L2/L3 8 port gigabit switch
-* \[x\] 3x servers
+* \[x\] 6x servers
 
 During phase 1:
 
