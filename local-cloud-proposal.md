@@ -115,17 +115,10 @@ The Civic Cloud Collaborative will work with Burlington Telecom to establish reg
 
 We also ask that Burlington Telecom provide gigabit service at a nominal cost to non-commercial technical collaborators. This will provide an immediate, if small, test bed for gigabit applications hosted within the Civic Cloud.
 
-Producers and Partners (Proposed)
----------------------------------
+About the Civic Cloud Collaborative
+-----------------------------------
 
-* Big Heavy World
-* Burlington Telecom
-* CCTV Center for Media & Democracy
-* City of Burlington
-* Code for BTV
-* Found Line
-* Laboratory B
-* US Ignite
+The Civic Cloud Collaborative is comprised of Big Heavy World, CCTV Center for Media & Democracy, Code for BTV, Found Line, and Laboratory B. This document is a proposal for the Civic Cloud Collaborative to partner with Burlington Telecom, the City of Burlington, and US Ignite to develop the Civic Cloud.
 
 Potential Collaborators
 -----------------------
