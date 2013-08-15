@@ -108,7 +108,7 @@ The following will be required from Burlington Telecom in order to make the Civi
 * Physical space for a rack enclosure (42U; 79" x 25" x 40")
 * Electricity with battery backup and generator (16A @ 110V, est.)
 * Air conditioning (6,000 BTU/h, est.)
-* Gigabit uplink (1000BASE-T)
+* Gigabit uplink (1000BASE-T) to internal network
 * IPv4 address block (approx. 20 hosts) 
 
 The Civic Cloud Collaborative will work with Burlington Telecom to establish regularly scheduled maintenance windows during which physical access will be provided to the rack enclosure. The Civic Cloud Collaborative will designate a technical contact with whom Burlington Telecom will communicate in regards to any technical matters.
