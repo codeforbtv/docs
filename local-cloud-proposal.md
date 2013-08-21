@@ -24,11 +24,7 @@ Introduction
 
 Burlington has one of a handful of gigabit networks in the country. These gigabit networks are islands of super-fast connectivity. It is only within (and to some extent between) these networks that the true potential of gigabit can currently be realized. Until the rest of the Internet catches up, the potential of Burlington Telecom's gigabit network can only be realized with applications deployed inside the network.
 
-As a US Ignite Partner, the City of Burlington is looking to showcase next-generation Internet applications that provide transformative public benefit in the areas of education & workforce, energy, health, public safety, transportation, and advanced manufacturing. Applications focused on any of these areas could be hosted in the Civic Cloud. Some examples of gigabit applications to be hosted in the Civic Cloud include:
-
-* **Lakecraft:** educational tool that engages youth and adults in science by gamifying the Lake Champlain Basin
-* **School Juice:** application that will present the energy usage data of all area schools in a way that can be searched, accessed by API, and visualized
-* **Live Streaming:** gigabit networks would allow for 1080p (or even 4K or 8K) streaming where most existing services are limited to 720p at best
+As a US Ignite Partner, the City of Burlington is looking to showcase next-generation Internet applications that provide transformative public benefit in the areas of education & workforce, energy, health, public safety, transportation, and advanced manufacturing. Applications focused on any of these areas could be hosted in the Civic Cloud.
 
 One unique benefit of the Civic Cloud would be in the area of public safety. The Vermont Digital Economy Project has found that communities with digitally connected non-governmental organizations are more resilient after natural disasters such as Tropical Storm Irene. Collaborating with the Vermont Digital Economy Project, volunteers working with Code for BTV, a Code for America Brigade, have built or improved websites for several non-governmental organizations and plan to work on many more of these websites. Having these websites hosted together in the Civic Cloud would allow the Vermont Digital Economy Project to improve security, provide options for disaster response, share content between organizations, and more easily link the organizations together.
 
@@ -119,6 +115,29 @@ About the Civic Cloud Collaborative
 -----------------------------------
 
 The Civic Cloud Collaborative is comprised of Big Heavy World, CCTV Center for Media & Democracy, Code for BTV (a Code for America Brigade), Found Line, and Laboratory B. This document is a proposal for the Civic Cloud Collaborative to partner with Burlington Telecom, the City of Burlington, and US Ignite to develop the Civic Cloud. The Civic Cloud Collaborative has procured all of the equipment necessary for phase 1 of the Civic Cloud. The value of this equipment is estimated at approximately $18,000. The Civic Cloud Collaborative will also be providing hundreds of skilled person-hours to deliver phase 1, the value of which will easily surpass the equipment costs.
+
+Civic Cloud Applications
+------------------------
+
+Like roads, bridges, the water system, the electric grid, and our fiber-optic network, the Civic Cloud will become a part of the civic infrastructure on which our community is built. As with other forms of civic infrastructure, the Civic Cloud will enable applications across all sectors. Following are some examples of applications that could be hosted in the Civic Cloud.
+
+### Lakecraft
+
+Lakecraft, a Code for BTV project, is an educational tool that engages youth and adults in science by gamifying the Lake Champlain Basin. Using a custom modification to Minecraft, the goal is to eventually have a tool that may be used at the ECHO Center, at home, by educational institutions, and serve as a model to educators.
+
+### School Juice
+
+School Juice is a team of Code for BTV volunteers brainstorming ways to begin providing electricity usage data from Burlington’s new smart meters in some useful and open ways to the public. This information could be used by the public, by students and by the city to assess progress along the city’s energy reduction goals. The concept is to present the energy usage data of all area schools in a way that can be searched, accessed by API and visualized.
+
+### Live Streaming
+
+While there are existing live streaming services such as Livestream and Ustream, there are benefits to providing a non-commercial, public, educational, and government access version of these services. There are free speech implications to relying on a for-profit organization for live streaming, or any other Internet application. The terms of service may limit legitimate uses or the company may decide, for whatever reason, not to carry certain content. Privacy concerns may also have a chilling effect on free speech. Viewers should not have to subject themselves to giving up their data and their privacy in order to watch a live broadcast. Additionally, Burlington's gigabit network would provide for 1080p (or even 4K or 8K) streaming where most services are limited to 720p a best.
+
+### Cloud Hosting, Cloud Storage, and Cloud Backup
+
+As found by the Vermont Digital Economy Project, communities with digitally connected non-governmental organizations are more resilient after a disaster, such as Tropical Storm Irene. Local cloud hosting, cloud storage, and cloud backup services available to Vermont’s non-governmental organizations (and possibly local governments) would make Vermont a leader in resilience to natural disasters.
+
+Code for BTV and the Vermont Digital Economy Project would maintain several WordPress multisite installs, each for a separate non-governmental organization "vertical." Rescue squads, food shelves, job banks, and historical societies could each have their own WordPress multisite install. A food shelf, for example, in need of a new website could have this website provisioned as part of the WordPress food shelf multisite install. WordPress multisite would make the websites much easier to create and maintain. Having all of the websites hosted together would allow the Vermont Digital Economy Project to improve security, provide options for disaster response, share content between organizations, and more easily link the organizations together.
 
 Potential Collaborators
 -----------------------
