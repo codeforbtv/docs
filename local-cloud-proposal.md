@@ -153,6 +153,10 @@ Big Heavy World aims to have its music events calendar to publish information fr
 
 The Vermont Artist Directory is used by the public, venues, and artists to identify and connect with bands or performers for weddings, club shows, or gig swaps/special projects. It should have enough content, including music and photographs, to give a clear idea of what kind of music the artist plays and make them accessible to anyone through the Big Heavy World site. It's an overview of Vermont's music community, and should be searchable by genre or geographic region, and connect with band's social network sites.
 
+### Fish Stocking Schedule
+
+Created during the National Day of Civic Hacking, the Fish Stocking Schedule is an application that takes fish stocking data published by Vermont Fish & Wildlife and transforms it into an interactive map. The data can be navigated by number of fish, species, town, average size, body of water, age of fish, and date stocked.
+
 ### Cloud Hosting, Cloud Storage, and Cloud Backup
 
 As found by the Vermont Digital Economy Project, communities with digitally connected non-governmental organizations are more resilient after a disaster, such as Tropical Storm Irene. Local cloud hosting, cloud storage, and cloud backup services available to Vermont’s non-governmental organizations (and possibly local governments) would make Vermont a leader in resilience to natural disasters.
