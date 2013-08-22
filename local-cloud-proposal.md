@@ -137,6 +137,10 @@ While there are existing live streaming services such as Livestream and Ustream,
 
 During Green Up Vermont, many inefficiencies were identified: people covering the same ground multiples times, people not knowing where high need was, and not knowing where to drop off their garbage. A group of Code for BTV volunteers created a web-based mobile user interface with server side service to collect data points as well as forums for discussion. A client-side data system allows for the organization of data points.
 
+### Live Music Venue Directory
+
+The Big Heavy World Live Music Venue Directory is a tool for Vermont-based and touring artists to orient to the opportunities to perform in Vermont. It helps artists identify which venues are worth putting effort into getting booked at and provides the information needed to communicate with them. Not every music venue is a good match with every artist or band. For example, the venue might be too big or small, or have programming interests that don't fit the artist's style of music.
+
 ### Cloud Hosting, Cloud Storage, and Cloud Backup
 
 As found by the Vermont Digital Economy Project, communities with digitally connected non-governmental organizations are more resilient after a disaster, such as Tropical Storm Irene. Local cloud hosting, cloud storage, and cloud backup services available to Vermont’s non-governmental organizations (and possibly local governments) would make Vermont a leader in resilience to natural disasters.
