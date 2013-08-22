@@ -73,6 +73,7 @@ While phase 1 will be bootstrapped, phase 2 will involve finding seed money to c
 
 During phase 2:
 
+* Remote management will be enabled
 * An internal storage area network (SAN) will be added
 * An Infrastructure as a Service (IaaS) layer will be added, but there will be no PaaS layer
 * Components will be standardized and technical oversight processes will be developed
