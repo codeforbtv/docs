@@ -141,6 +141,10 @@ During Green Up Vermont, many inefficiencies were identified: people covering th
 
 The Big Heavy World Live Music Venue Directory is a tool for Vermont-based and touring artists to orient to the opportunities to perform in Vermont. It helps artists identify which venues are worth putting effort into getting booked at and provides the information needed to communicate with them. Not every music venue is a good match with every artist or band. For example, the venue might be too big or small, or have programming interests that don't fit the artist's style of music.
 
+### Big Heavy World Discussion Forum
+
+Big Heavy World Discussion Forum is a place for Vermont musicians to connect. Musicians can talk about many genres of music, swap equipment, and find ride sharing opportunities. A previous forum had been overrun by spam bots. This new forum was set up by Code for BTV volunteers during the National Day of Civic Hacking.
+
 ### Cloud Hosting, Cloud Storage, and Cloud Backup
 
 As found by the Vermont Digital Economy Project, communities with digitally connected non-governmental organizations are more resilient after a disaster, such as Tropical Storm Irene. Local cloud hosting, cloud storage, and cloud backup services available to Vermont’s non-governmental organizations (and possibly local governments) would make Vermont a leader in resilience to natural disasters.
