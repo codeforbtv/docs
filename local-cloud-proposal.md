@@ -157,6 +157,10 @@ The Vermont Artist Directory is used by the public, venues, and artists to ident
 
 Created during the National Day of Civic Hacking, the Fish Stocking Schedule is an application that takes fish stocking data published by Vermont Fish & Wildlife and transforms it into an interactive map. The data can be navigated by number of fish, species, town, average size, body of water, age of fish, and date stocked.
 
+### Burlington City Wiki
+
+A team of Code for BTV volunteers has created a wiki designed to crowdsource information about Burlington. The wiki uses the MediaWiki platform and includes categories and a sampling of content. Importing and supporting extensions are in place (e.g., anti spam, social networking). The team is looking to recruit writers and editors for the wiki.
+
 ### Cloud Hosting, Cloud Storage, and Cloud Backup
 
 As found by the Vermont Digital Economy Project, communities with digitally connected non-governmental organizations are more resilient after a disaster, such as Tropical Storm Irene. Local cloud hosting, cloud storage, and cloud backup services available to Vermont’s non-governmental organizations (and possibly local governments) would make Vermont a leader in resilience to natural disasters.
