@@ -133,6 +133,10 @@ School Juice is a team of Code for BTV volunteers brainstorming ways to begin pr
 
 While there are existing live streaming services such as Livestream and Ustream, there are benefits to providing a non-commercial, public, educational, and government access version of these services. There are free speech implications to relying on a for-profit organization for live streaming, or any other Internet application. The terms of service may limit legitimate uses or the company may decide, for whatever reason, not to carry certain content. Privacy concerns may also have a chilling effect on free speech. Viewers should not have to subject themselves to giving up their data and their privacy in order to watch a live broadcast. Additionally, Burlington's gigabit network would provide for 1080p (or even 4K or 8K) streaming where most services are limited to 720p a best.
 
+### Green Up Vermont
+
+During Green Up Vermont, many inefficiencies were identified: people covering the same ground multiples times, people not knowing where high need was, and not knowing where to drop off their garbage. A group of Code for BTV volunteers created a web-based mobile user interface with server side service to collect data points as well as forums for discussion. A client-side data system allows for the organization of data points.
+
 ### Cloud Hosting, Cloud Storage, and Cloud Backup
 
 As found by the Vermont Digital Economy Project, communities with digitally connected non-governmental organizations are more resilient after a disaster, such as Tropical Storm Irene. Local cloud hosting, cloud storage, and cloud backup services available to Vermont’s non-governmental organizations (and possibly local governments) would make Vermont a leader in resilience to natural disasters.
