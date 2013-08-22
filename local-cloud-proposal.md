@@ -145,6 +145,10 @@ The Big Heavy World Live Music Venue Directory is a tool for Vermont-based and t
 
 Big Heavy World Discussion Forum is a place for Vermont musicians to connect. Musicians can talk about many genres of music, swap equipment, and find ride sharing opportunities. A previous forum had been overrun by spam bots. This new forum was set up by Code for BTV volunteers during the National Day of Civic Hacking.
 
+### Interactive Event Calendar
+
+Big Heavy World aims to have its music events calendar to publish information from the State of Vermont's event calendar, filtering the music events onto Big Heavy World and sending event info entered on Big Heavy World to the state calendar. The ultimate goal is to create an interface that is "skinnable" and make it available as a tool for other arts nonprofits in Vermont to use, allowing them to engage their local communities with the larger pool of information aggregated by the state.
+
 ### Cloud Hosting, Cloud Storage, and Cloud Backup
 
 As found by the Vermont Digital Economy Project, communities with digitally connected non-governmental organizations are more resilient after a disaster, such as Tropical Storm Irene. Local cloud hosting, cloud storage, and cloud backup services available to Vermont’s non-governmental organizations (and possibly local governments) would make Vermont a leader in resilience to natural disasters.
