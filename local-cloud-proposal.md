@@ -161,6 +161,10 @@ Created during the National Day of Civic Hacking, the Fish Stocking Schedule is 
 
 A team of Code for BTV volunteers has created a wiki designed to crowdsource information about Burlington. The wiki uses the MediaWiki platform and includes categories and a sampling of content. Importing and supporting extensions are in place (e.g., anti spam, social networking). The team is looking to recruit writers and editors for the wiki.
 
+### Adopt-a-Drain
+
+Adopt-a-Drain allows individuals to claim responsibility for reporting problems with storm drains. This open source application started as Adopt-a-Hydrant, a tool that lets individuals "adopt" civic infrastructure such as fire hydrants. Individuals would claim responsibility for shoveling out a fire hydrant after it snows. The same application was later adapted as Adopt-a-Sidewalk in Chicago, and Adopt-a-Siren in Honolulu for people to listen during tsunami alert siren tests and report any problems. OpenOakland, a Code for America Brigade, then created Adopt-a-Drain based on this application. The City of Burlington's stormwater program has expressed interest in having an Adopt-a-Drain instance installed for Burlington.
+
 ### Cloud Hosting, Cloud Storage, and Cloud Backup
 
 As found by the Vermont Digital Economy Project, communities with digitally connected non-governmental organizations are more resilient after a disaster, such as Tropical Storm Irene. Local cloud hosting, cloud storage, and cloud backup services available to Vermont’s non-governmental organizations (and possibly local governments) would make Vermont a leader in resilience to natural disasters.
