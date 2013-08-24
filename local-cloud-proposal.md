@@ -35,7 +35,7 @@ Approach
 
 ![cloud computing layers](http://upload.wikimedia.org/wikipedia/commons/3/3c/Cloud_computing_layers.png "cloud computing layers")
 
-Initially, the Civic Cloud will provide virtual servers that are manually provisioned. Later, the Civic Cloud will provide an Infrastructure as a Service (IaaS) cloud computing resource. This layer will most likely be managed by OpenStack, an open source software project backed by more than 200 companies. This approach will make it technically possible to run almost any application in the Civic Cloud. 
+Initially, the Civic Cloud will provide virtual servers that are manually provisioned. Later, the Civic Cloud will provide an Infrastructure as a Service (IaaS) cloud computing resource. The IaaS layer will most likely be managed by OpenStack, an open source software project backed by more than 200 companies. This approach will make it technically possible to run almost any application in the Civic Cloud. 
 
 In the future, the Civic Cloud may also host a Platform as a Service (PaaS) layer. The PaaS layer would most likely be managed by OpenShift Origin. This would make it easier to deploy applications written in common programming languages such as Node.js, Ruby, Python, PHP, Perl, or Java. OpenShift Origin also supports several common databases including MySQL, PostgreSQL, and MongoDB.
 
