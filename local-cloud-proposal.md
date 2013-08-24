@@ -110,7 +110,7 @@ The following will be required from Burlington Telecom in order to make the Civi
 
 The Civic Cloud Collaborative will work with Burlington Telecom to establish regularly scheduled maintenance windows during which physical access will be provided to the rack enclosure. The Civic Cloud Collaborative will designate a technical contact with whom Burlington Telecom will communicate in regards to any technical matters.
 
-We also ask that Burlington Telecom provide gigabit service at a nominal cost to non-commercial technical collaborators. This will provide an immediate, if small, test bed for gigabit applications hosted within the Civic Cloud.
+We also ask that Burlington Telecom provide gigabit service at a nominal cost to **non-commercial** technical collaborators. This will provide an immediate, if small, test bed for gigabit applications hosted within the Civic Cloud.
 
 About the Civic Cloud Collaborative
 -----------------------------------
