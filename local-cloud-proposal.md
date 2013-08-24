@@ -47,13 +47,13 @@ The Civic Cloud Collaborative will break its work into three phases. Phase 1 (pi
 
 #### Phase 1: Pilot
 
-This phase will be bootstrapped by volunteers and donations. The following physical infrastructure will be required (a check indicates this equipment has already been procured):
+This phase will be bootstrapped by volunteers and donations. All of the physical infrastructure necessary for phase 1 has been acquired by the Civic Cloud Collaborative. This includes:
 
-* \[x\] 1x rack enclosure (42U; 79" x 25" x 40")
-* \[x\] 1x power distribution unit (PDU)
-* \[x\] 1x firewall w/ 3x gigabit NICs
-* \[x\] 2x managed L2/L3 8 port gigabit switch
-* \[x\] 6x servers
+* 1x rack enclosure (42U; 79" x 25" x 40")
+* 1x power distribution unit (PDU)
+* 1x firewall w/ 3x gigabit NICs
+* 2x managed L2/L3 8 port gigabit switch
+* 6x servers
 
 During phase 1:
 
