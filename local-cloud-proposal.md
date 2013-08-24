@@ -115,7 +115,7 @@ We also ask that Burlington Telecom provide gigabit service at a nominal cost to
 About the Civic Cloud Collaborative
 -----------------------------------
 
-The Civic Cloud Collaborative is comprised of Big Heavy World, CCTV Center for Media & Democracy, Code for BTV (a Code for America Brigade), Found Line, and Laboratory B. This document is a proposal for the Civic Cloud Collaborative to partner with Burlington Telecom, the City of Burlington, and US Ignite to develop the Civic Cloud. The Civic Cloud Collaborative has procured all of the equipment necessary for phase 1 of the Civic Cloud. The value of this equipment is estimated at approximately $18,000. The Civic Cloud Collaborative will also be providing hundreds of skilled person-hours to deliver phase 1, the value of which will easily surpass the equipment costs.
+The Civic Cloud Collaborative is comprised of Big Heavy World, CCTV Center for Media & Democracy, Code for BTV (a Code for America Brigade), Found Line, Laboratory B, Regional Educational Technology Network (RETN), and Vermont Community Access Media (VCAM). This document is a proposal for the Civic Cloud Collaborative to partner with Burlington Telecom, the City of Burlington, and US Ignite to develop the Civic Cloud. The Civic Cloud Collaborative has procured all of the equipment necessary for phase 1 of the Civic Cloud. The value of this equipment is estimated at approximately $18,000. The Civic Cloud Collaborative will also be providing hundreds of skilled person-hours to deliver phase 1, the value of which will easily surpass the equipment costs.
 
 Civic Cloud Applications
 ------------------------
@@ -177,7 +177,5 @@ Potential Collaborators
 
 * BTV Gig
 * Fletcher Free Library
-* RETN
-* VCAM
 * Vermont Digital Economy Project
 * Vermont Resilience Lab
