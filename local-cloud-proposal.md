@@ -131,7 +131,7 @@ Once these steps are completed, the technical contact for the Civic Cloud Collab
 Civic Cloud Applications
 ------------------------
 
-Like roads, bridges, the water system, the electric grid, and our fiber-optic network, the Civic Cloud will become a part of the civic infrastructure on which our community is built. As with other forms of civic infrastructure, the Civic Cloud will enable applications across all sectors. The goal is for the Civic Cloud to foster an ecosystem of applications. Hundreds, or potentially even thousands, of applications could be hosted in the Civic Cloud. The Civic Cloud could become an immense resource to the community.
+Like roads, bridges, the water system, the electric grid, and our city's fiber-optic network, the Civic Cloud will become a part of the civic infrastructure on which our community is built. As with other forms of civic infrastructure, the Civic Cloud will enable applications across all sectors. The goal is for the Civic Cloud to foster an ecosystem of applications. Hundreds, or potentially even thousands, of applications could be hosted in the Civic Cloud. The Civic Cloud could become an immense resource to the community.
 
 Following are some examples of applications that could be hosted in the Civic Cloud. Many of these applications are being developed through Code for BTV, a Code for America Brigade. Launched during the National Day of Civic Hacking, Code for BTV is facilitating sustainable collaborations on civic software and open data projects between coders, designers, and organizations (both governmental and non-governmental). Code for BTV will continue to be a source of civic applications that could be hosted in the Civic Cloud.
 
