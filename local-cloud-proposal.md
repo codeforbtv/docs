@@ -115,7 +115,18 @@ We also ask that Burlington Telecom provide gigabit service at a nominal cost to
 About the Civic Cloud Collaborative
 -----------------------------------
 
-The Civic Cloud Collaborative is comprised of Big Heavy World, CCTV Center for Media & Democracy, Code for BTV (a Code for America Brigade), Found Line, Laboratory B, Regional Educational Technology Network (RETN), and Vermont Community Access Media (VCAM). This document is a proposal for the Civic Cloud Collaborative to partner with Burlington Telecom, the City of Burlington, and US Ignite to develop the Civic Cloud. The Civic Cloud Collaborative has procured all of the equipment necessary for phase 1 of the Civic Cloud. The value of this equipment is estimated at approximately $18,000. The Civic Cloud Collaborative will also be providing hundreds of skilled person-hours to deliver phase 1, the value of which will easily surpass the equipment costs.
+The Civic Cloud Collaborative is comprised of Big Heavy World, CCTV Center for Media & Democracy, Code for BTV (a Code for America Brigade), Found Line, Laboratory B, Regional Educational Technology Network (RETN), and Vermont Community Access Media (VCAM). This document is a proposal for the Civic Cloud Collaborative to partner with Burlington Telecom, the City of Burlington, and US Ignite to develop the Civic Cloud.
+
+Next Steps
+----------
+
+The Civic Cloud Collaborative has procured all of the equipment necessary for phase 1 of the Civic Cloud. The value of this equipment is estimated at approximately $18,000. The Civic Cloud Collaborative will also be providing hundreds of skilled person-hours to deliver phase 1, the value of which will easily surpass the equipment costs. The next steps needed to develop the Civic Cloud include:
+
+1. Burlington Telecom reviews the phase 1 requirements outlined in this document
+2. The Civic Cloud Collaborative works with Burlington Telecom to adjust these requirements as needed
+3. The City of Burlington approves Burlington Telecom providing the phase 1 requirements to the Civic Cloud Collaborative
+
+Once these steps are completed, the technical contact for the Civic Cloud Collaborative will schedule install times with Burlington Telecom for the Civic Cloud physical infrastructure. The installation of the physical infrastructure will likely take at least two or three visits. The installation will involve placing the server rack itself, preparing the server rack, and installing the servers.
 
 Civic Cloud Applications
 ------------------------
