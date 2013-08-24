@@ -64,7 +64,7 @@ During phase 1:
 Specific applications targeted for deployment in phase 1 include:
 
 * Live streaming for public, educational, and government access
-* WordPress Multisite for statewide verticals (e.g. rescue squads, food shelves, job banks, historical societies)
+* WordPress Multisite for statewide non-commercial verticals (e.g. rescue squads, food shelves, job banks, historical societies)
 * Lakecraft
 
 #### Phase 2: Implement
