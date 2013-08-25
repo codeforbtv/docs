@@ -137,7 +137,7 @@ Following are some examples of applications that could be hosted in the Civic Cl
 
 ### Lakecraft
 
-Lakecraft, a Code for BTV project, is an educational tool that engages youth and adults in science by gamifying the Lake Champlain Basin. Using a custom modification to Minecraft, the goal is to eventually have a tool that may be used at the ECHO Center, at home, by educational institutions, and serve as a model to educators.
+Lakecraft, a Code for BTV project, is an educational tool that engages youth and adults in science by gamifying the Lake Champlain Basin. Using a custom modification to Minecraft, the goal is to eventually have a tool that may be used at the ECHO Center, at home, by educational institutions, and as a model to educators.
 
 ### School Juice
 
