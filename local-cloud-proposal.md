@@ -145,7 +145,7 @@ School Juice is a team of Code for BTV volunteers brainstorming ways to begin pr
 
 ### Live Streaming
 
-While there are existing live streaming services such as Livestream and Ustream, there are benefits to providing a non-commercial version of these services focused on public, educational, and government access. There are free speech implications to relying on a for-profit organization for live streaming, or any other Internet application. The terms of service may limit legitimate uses or the company may decide, for whatever reason, not to carry certain content. Privacy concerns may also have a chilling effect on free speech. Viewers should not have to subject themselves to giving up their data and their privacy in order to watch a live broadcast. Additionally, Burlington's gigabit network would provide for 1080p (or even 4K or 8K) streaming where most services are limited to 720p a best.
+While there are existing live streaming services such as Livestream and Ustream, there are benefits to providing a non-commercial version of these services focused on public, educational, and government access. There are free speech implications to relying on a for-profit organization for live streaming, or any other Internet application. The terms of service may limit legitimate uses or the company may decide, for whatever reason, not to carry certain content. Privacy concerns may also have a chilling effect on free speech. Viewers should not have to subject themselves to giving up their data and their privacy in order to watch a live broadcast. Additionally, Burlington's gigabit network would provide for 1080p (or even 4K or 8K) streaming where most services are limited to 720p at best.
 
 ### Green Up Vermont
 
