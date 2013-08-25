@@ -153,7 +153,7 @@ During Green Up Vermont, many inefficiencies were identified: people covering th
 
 ### Live Music Venue Directory
 
-The Big Heavy World Live Music Venue Directory is a tool for Vermont-based and touring artists to orient to the opportunities to perform in Vermont. It helps artists identify which venues are worth putting effort into getting booked at and provides the information needed to communicate with them. Not every music venue is a good match with every artist or band. For example, the venue might be too big or small, or have programming interests that don't fit the artist's style of music.
+The Big Heavy World Live Music Venue Directory is a tool for Vermont-based and touring artists to orient themselves to the opportunities to perform in Vermont. It helps artists identify appropriate venues and provides the information needed to communicate with them. Not every music venue is a good match with every artist or band. For example, the venue might be too big or small, or have programming interests that don't fit the artist's style of music.
 
 ### Big Heavy World Discussion Forum
 
