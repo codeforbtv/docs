@@ -161,11 +161,11 @@ Big Heavy World Discussion Forum is a place for Vermont musicians to connect. Mu
 
 ### Interactive Event Calendar
 
-Big Heavy World aims to have its music events calendar to publish information from the State of Vermont's event calendar, filtering the music events onto Big Heavy World and sending event info entered on Big Heavy World to the state calendar. The ultimate goal is to create an interface that is "skinnable" and make it available as a tool for other arts nonprofits in Vermont to use, allowing them to engage their local communities with the larger pool of information aggregated by the state.
+Big Heavy World aims to have its music events calendar integrate with the State of Vermont's event calendar. The ultimate goal is to create an interface that is "skinnable" and to make it available as a tool for other arts nonprofits in Vermont to use, allowing them to engage their local communities with the larger pool of information aggregated by the state.
 
 ### Vermont Artist Directory
 
-The Vermont Artist Directory is used by the public, venues, and artists to identify and connect with bands or performers for weddings, club shows, or gig swaps/special projects. It should have enough content, including music and photographs, to give a clear idea of what kind of music the artist plays and make them accessible to anyone through the Big Heavy World site. It's an overview of Vermont's music community, and should be searchable by genre or geographic region, and connect with band's social network sites.
+The Vermont Artist Directory is intended for use by the public, venues, and artists to identify and connect with bands or performers for weddings, club shows, or gig swaps/special projects. It should have enough content, including music and photographs, to give a clear idea of what kind of music the artist plays and to make them accessible to anyone through the Big Heavy World site. It's an overview of Vermont's music community, should be searchable by genre or geographic region, and should connect with a band's social network sites.
 
 ### Fish Stocking Schedule
 
@@ -173,7 +173,7 @@ Created during the National Day of Civic Hacking, the Fish Stocking Schedule is 
 
 ### Burlington City Wiki
 
-A team of Code for BTV volunteers has created a wiki designed to crowdsource information about Burlington. The wiki uses the MediaWiki platform and includes categories and a sampling of content. Importing and supporting extensions are in place (e.g., anti spam, social networking). The team is looking to recruit writers and editors for the wiki.
+A team of Code for BTV volunteers has created a wiki designed to crowdsource information about Burlington. The wiki uses the MediaWiki platform and includes categories and a sampling of content. Importing and supporting extensions are in place (e.g., anti-spam, social networking). The team is looking to recruit writers and editors for the wiki.
 
 ### Adopt-a-Drain
 
@@ -181,7 +181,7 @@ Adopt-a-Drain allows individuals to claim responsibility for reporting problems 
 
 ### Cloud Hosting, Cloud Storage, and Cloud Backup
 
-Code for BTV and the Vermont Digital Economy Project would maintain several WordPress multisite installs, each for a separate non-governmental organization "vertical." Rescue squads, food shelves, job banks, and historical societies could each have their own WordPress multisite install. A food shelf, for example, in need of a new website could have this website provisioned as part of the WordPress food shelf multisite install. WordPress multisite would make the websites much easier to create and maintain. Having all of the websites hosted together would allow the Vermont Digital Economy Project to improve security, provide options for disaster response, share content between organizations, and more easily link the organizations together. This service could be extended to cloud storage and cloud backup available to Vermont’s non-governmental organizations (and possibly local governments).
+Code for BTV and the Vermont Digital Economy Project would maintain several WordPress multisite installs, each for a separate non-governmental organization "vertical." Rescue squads, food shelves, job banks, and historical societies could each have their own WordPress Multisite install. A food shelf, for example, in need of a new website could have this website provisioned as part of the food shelf WordPress Multisite install. WordPress Multisite would make the websites much easier to create and maintain. Having all of the websites hosted together would allow the Vermont Digital Economy Project to improve security, provide options for disaster response, share content between organizations, and more easily link the organizations together. This service could be extended to cloud storage and cloud backup available to Vermont’s non-governmental organizations (and possibly local governments).
 
 Potential Collaborators
 -----------------------
