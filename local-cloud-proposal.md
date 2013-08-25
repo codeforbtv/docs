@@ -149,7 +149,7 @@ While there are existing live streaming services such as Livestream and Ustream,
 
 ### Green Up Vermont
 
-During Green Up Vermont, many inefficiencies were identified: people covering the same ground multiples times, people not knowing where high need was, and not knowing where to drop off their garbage. A group of Code for BTV volunteers created a web-based mobile user interface with server side service to collect data points as well as forums for discussion. A client-side data system allows for the organization of data points.
+During Green Up Vermont, many inefficiencies were identified: people covering the same ground multiples times, people not knowing where high need was, and people not knowing where to drop off their garbage. A group of Code for BTV volunteers created a web-based mobile user interface with server-side service to collect data points as well as to provide forums for discussion. A client-side data system allows for the organization of data points.
 
 ### Live Music Venue Directory
 
