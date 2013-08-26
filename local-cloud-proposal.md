@@ -65,7 +65,7 @@ Applications targeted for deployment in phase 1 include:
 
 * Live streaming for community media, including community radio as well as public, educational, and government access
 * WordPress Multisite for statewide non-commercial verticals (e.g. rescue squads, food shelves, job banks, historical societies)
-* Big Heavy World: A collection of music office applications that help preserve and promote Vermont-made music
+* Big Heavy World: A collection of applications that help preserve and promote Vermont-made music
 * Lakecraft: an educational tool that engages youth and adults in science by gamifying the Lake Champlain Basin
 
 #### Phase 2: Implement
