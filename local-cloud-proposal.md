@@ -74,7 +74,7 @@ While phase 1 will be bootstrapped, phase 2 will involve finding seed money to c
 During phase 2:
 
 * Remote management will be enabled
-* An internal storage area network (SAN) will be added
+* A storage cluster will be added
 * An Infrastructure as a Service (IaaS) layer will be added, but there will be no PaaS layer
 * Components will be standardized and technical oversight processes will be developed
 * Service continuity will be an area of priority
@@ -91,7 +91,7 @@ The main goal of phase 3 will be to develop a plan for the long term sustainabil
 
 During phase 3:
 
-* Additional capacity will be added to the internal storage area network (SAN)
+* Additional capacity will be added to the storage cluster
 * Additional servers will be added to the Civic Cloud, expanding its capacity
 * Over time, old servers will be replaced with new servers
 * A Platform as a Service (PaaS) layer may be added, making it easier for developers to deploy applications written in common programming languages
