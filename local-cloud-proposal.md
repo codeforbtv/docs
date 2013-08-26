@@ -61,7 +61,7 @@ During phase 1:
 * Only non-critical applications will be deployed
 * No email applications will be allowed (e.g. SMTP, CRM, mailing lists)
 
-Specific applications targeted for deployment in phase 1 include:
+Applications targeted for deployment in phase 1 include:
 
 * Live streaming for community media, including community radio as well as public, educational, and government access
 * WordPress Multisite for statewide non-commercial verticals (e.g. rescue squads, food shelves, job banks, historical societies)
