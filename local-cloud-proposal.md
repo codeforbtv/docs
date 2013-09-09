@@ -141,6 +141,11 @@ The next steps needed to develop the Civic Cloud include:
 
 Once these steps are completed, the technical contact for the Civic Cloud Collaborative will schedule install times with Burlington Telecom for the Civic Cloud physical infrastructure. The installation of the physical infrastructure will likely take at least two or three visits. The installation will involve placing the server rack itself, preparing the server rack, and installing the servers.
 
+Community Benefit
+-----------------
+
+If the City of Burlington wants to become a regional technology center, then the Civic Cloud can be a key component to this strategy. Leveraging Burlington's gigabit network, the Civic Cloud would provide a platform for collaboration, innovation, and experimentation on next-generation Internet applications within Burlington. While the gigabit Internet may currently stop at Burlington's borders, many of the applications hosted in the Civic Cloud would provide community benefit beyond the city limits. With the Civic Cloud being physically located here, the City of Burlington would get credit throughout Vermont (and beyond) for the value it provides to other communities. The Civic Cloud Collaborative plans to document as much of its work as possible, enabling other communities to develop their own Civic Clouds while looking to Burlington as a leader.
+
 Civic Cloud Applications
 ------------------------
 
