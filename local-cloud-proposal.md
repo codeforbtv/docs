@@ -127,7 +127,9 @@ The Civic Cloud Collaborative is comprised of Big Heavy World, CCTV Center for M
 Next Steps
 ----------
 
-The Civic Cloud Collaborative has procured all of the equipment and labor necessary for phase 1 of the Civic Cloud, with an estimated value of $26,100. The next steps needed to develop the Civic Cloud include:
+The Civic Cloud Collaborative is asking the City of Burlington to fund the costs incurred by Burlington Telecom for the infrastructure needed by the Civic Cloud (physical space, electricity, air conditioning, bandwidth, IPv4 address block). The Civic Cloud Collaborative has procured all of the equipment and labor necessary for phase 1 of the Civic Cloud, with an estimated value of $26,100. The costs to the City of Burlington will be minimal relative to the Civic Cloud Collaborative total budget of $213,560 for phase 1, phase 2, and year one of phase 3.
+
+The next steps needed to develop the Civic Cloud include:
 
 1. Burlington Telecom reviews the phase 1 requirements outlined in this document
 2. The Civic Cloud Collaborative works with Burlington Telecom to adjust these requirements as needed
