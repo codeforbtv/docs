@@ -68,6 +68,8 @@ Applications targeted for deployment in phase 1 include:
 * Big Heavy World: A collection of applications that help preserve and promote Vermont-made music
 * Lakecraft: an educational tool that engages youth and adults in science by gamifying the Lake Champlain Basin
 
+The estimated budget for phase 1 is $26,100. This includes the physical infrastructure and labor costs. As noted, all of the physical infrastructure for phase 1 has been procured. Hundreds of skilled person-hours have been committed by volunteers and members of the Civic Cloud Collaborative to complete phase 1.
+
 #### Phase 2: Implement
 
 While phase 1 will be bootstrapped, phase 2 will involve finding seed money to cover the buildout of the Infrastructure as a Service (IaaS) layer and ongoing expenses for a limited period of time.
@@ -86,6 +88,8 @@ Phase 2 will involve more public facing activities including:
 * Outreach to organizations and individuals who could use the Civic Cloud
 * Organic expansion of services based on community needs
 
+The estimated budget for phase 2 is $49,400.
+
 #### Phase 3: Sustain
 
 The main goal of phase 3 will be to develop a plan for the long term sustainability of the Civic Cloud. This will include finding sustainable funding sources, defining the governance structure, and defining the identity for the Civic Cloud Collaborative moving forward. Phase 3 may also include acquiring funds to buildout a Platform as a Service (PaaS) layer.
@@ -97,6 +101,8 @@ During phase 3:
 * Over time, old servers will be replaced with new servers
 * A Platform as a Service (PaaS) layer may be added, making it easier for developers to deploy applications written in common programming languages
 * Opportunities for software-defined networking (SDN) will be explored
+
+The estimated budget for the first year of phase 3 is $138,060.
 
 Phase 1 Requirements
 --------------------
