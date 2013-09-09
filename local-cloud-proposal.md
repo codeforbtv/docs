@@ -45,6 +45,8 @@ The IaaS and PaaS layers will allow developers to deploy Software as a Service (
 
 The Civic Cloud Collaborative will break its work into three phases. Phase 1 (pilot) will be made possible by volunteers, equipment donations, and service donations. Phase 2 (implement) will involve seed money to compensate for the staff time of contributing organizations and any additional capital expenses. Phase 3 (sustain) will focus on finding sustainable funding sources and defining the governance structure for the Civic Cloud Collaborative.
 
+While there are no set timelines, the Civic Cloud Collaborative would begin phase 1 with the goal of ultimately completing phase 3. While phase 1 has some limited value to the community, its main value is as a stepping stone to phase 2. Phase 2 will start to deliver significant value to the community. Phase 3 will ensure that this value can be sustained and expanded.
+
 #### Phase 1: Pilot
 
 This phase will be bootstrapped by volunteers and donations. All of the physical infrastructure necessary for phase 1 has been acquired by the Civic Cloud Collaborative. This includes:
