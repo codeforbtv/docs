@@ -148,6 +148,8 @@ If the City of Burlington wants to become a regional technology center, then the
 
 While other communities are attempting similar initiatives, the Civic Cloud in Burlington would be unique. Philadelphia is working to create the Philly Public Cloud which "will utilize OpenStack together with community-contributed hardware, rackspace, and management to provide free hosting for public-service apps and sites." However, Philadelphia's cloud will not be on a gigabit network. The University of Maine at Orono is working on a cloud computing project for their gigabit network. The Orono project seems more geared towards researchers, while the goal of the Civic Cloud in Burlington is to be a resource for the entire community.
 
+The Civic Cloud serves a unique community need as compared to a GENI Rack. The Global Environment for Network Innovations (GENI) is a "virtual laboratory for exploring future internets at scale" that "creates major opportunities to understand, innovate and transform global networks and their interactions with society." The focus of GENI is on experimentation and innovation of the network itself. The focus of the Civic Cloud is on providing the infrastructure and platform on which to deploy next-generation Internet applications. These are distinct, yet complimentary, goals.
+
 Civic Cloud Applications
 ------------------------
 
