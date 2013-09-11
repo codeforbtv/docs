@@ -146,6 +146,8 @@ Community Benefit
 
 If the City of Burlington wants to become a regional technology center, then the Civic Cloud can be a key component to this strategy. Leveraging Burlington's gigabit network, the Civic Cloud would provide a platform for collaboration, innovation, and experimentation on next-generation Internet applications within Burlington. While the gigabit Internet may currently stop at Burlington's borders, many of the applications hosted in the Civic Cloud would provide community benefit beyond the city limits. With the Civic Cloud being physically located here, the City of Burlington would get credit throughout Vermont (and beyond) for the value it provides to other communities. The Civic Cloud Collaborative plans to document as much of its work as possible, enabling other communities to develop their own Civic Clouds while looking to Burlington as a leader.
 
+While other communities are attempting similar initiatives, the Civic Cloud in Burlington would be unique. Philadelphia is working to create the Philly Public Cloud which "will utilize OpenStack together with community-contributed hardware, rackspace, and management to provide free hosting for public-service apps and sites." However, Philadelphia's cloud will not be on a gigabit network. The University of Maine at Orono is working on a cloud computing project for their gigabit network. The Orono project seems more geared towards researchers, while the goal of the Civic Cloud in Burlington is to be a resource for the entire community.
+
 Civic Cloud Applications
 ------------------------
 
