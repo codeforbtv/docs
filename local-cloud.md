@@ -10,9 +10,9 @@ Local Cloud for Burlington, Vermont
 Strategic Plan
 
 Contribute to this strategic plan by forking this document on GitHub:  
-<https://github.com/codeforbtv>
+[https://github.com/codeforbtv](https://github.com/codeforbtv)
 
-This work is licensed under the Creative Commons Attribution 3.0 Unported license (<http://creativecommons.org/licenses/by/3.0/>).
+This work is licensed under the Creative Commons Attribution 3.0 Unported license ([http://creativecommons.org/licenses/by/3.0/](http://creativecommons.org/licenses/by/3.0/)).
 
 Background
 ----------
