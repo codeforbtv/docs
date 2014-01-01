@@ -195,7 +195,7 @@ Created during the National Day of Civic Hacking, the Fish Stocking Schedule is 
 
 ### Burlington City Wiki
 
-A team of Code for BTV volunteers has created a wiki designed to crowdsource information about Burlington. The wiki uses the MediaWiki platform and includes categories and a sampling of content. Importing and supporting extensions are in place (e.g., anti-spam, social networking). The team is looking to recruit writers and editors for the wiki.
+A team of Code for BTV volunteers has created a wiki designed to crowdsource information about Burlington. The wiki uses the MediaWiki platform and includes categories and a sampling of content. Importing and supporting extensions are in place (e.g. anti-spam, social networking). The team is looking to recruit writers and editors for the wiki.
 
 ### Adopt-a-Drain
 
