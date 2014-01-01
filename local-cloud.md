@@ -26,7 +26,7 @@ Many organizations lost a great deal of data during Tropical Storm Irene includi
 Vision
 ------
 
-Burlington has its own gigabit network that passes between 85% and 90% of the addresses in the city. In partnership with [US Ignite](http://us-ignite.org/), Burlington's gigabit network is a test bed for "[fostering] the creation of next-generation Internet applications that provide transformative public benefit."
+Burlington has its own gigabit network that passes between 85% and 90% of the addresses in the city. In partnership with [US Ignite](http://us-ignite.org/), Burlington's gigabit network is a test bed for "\[fostering\] the creation of next-generation Internet applications that provide transformative public benefit."
 
 Many of today's Internet applications are hosted in cloud computing environments. Cloud computing is a utility model that reduces costs by sharing resources and leveraging economies of scale. Many next-generation Internet applications will continue to choose the cloud computing model.
 
