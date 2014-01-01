@@ -28,7 +28,7 @@ As a US Ignite Partner, the City of Burlington is looking to showcase next-gener
 
 One unique benefit of the Civic Cloud would be in the area of public safety. The Vermont Digital Economy Project has found that communities with digitally connected non-governmental organizations are more resilient after natural disasters such as Tropical Storm Irene. Collaborating with the Vermont Digital Economy Project, volunteers working with Code for BTV, a Code for America Brigade, have built or improved websites for several non-governmental organizations and plan to work on many more of these websites. Hosting these websites in the Civic Cloud would help make the communities served by these non-governmental organizations more resilient to natural disasters.
 
-Many organizations lost a great deal of data during Tropical Storm Irene including donor lists, photos, and other information critical to their operations. In addition to web hosting, services such as cloud storage and cloud backup could be provided in the Civic Cloud. Cloud hosting, cloud storage, and cloud backup services available to Vermont’s non-governmental organizations (and possibly local governments) would make Vermont a leader in resilience to natural disasters.
+Many organizations lost a great deal of data during Tropical Storm Irene including donor lists, photos, and other information critical to their operations. In addition to web hosting, services such as cloud storage and cloud backup could be provided in the Civic Cloud. Cloud hosting, cloud storage, and cloud backup services available to Vermont's non-governmental organizations (and possibly local governments) would make Vermont a leader in resilience to natural disasters.
 
 Approach
 --------
@@ -163,7 +163,7 @@ Lakecraft, a Code for BTV project, is an educational tool that engages youth and
 
 ### School Juice
 
-School Juice is a team of Code for BTV volunteers brainstorming ways to begin providing electricity usage data from Burlington’s new smart meters in some useful and open ways to the public. This information could be used by the public, by students and by the city to assess progress along the city’s energy reduction goals. The concept is to present the energy usage data of all area schools in a way that can be searched, accessed by API and visualized.
+School Juice is a team of Code for BTV volunteers brainstorming ways to begin providing electricity usage data from Burlington's new smart meters in some useful and open ways to the public. This information could be used by the public, by students and by the city to assess progress along the city's energy reduction goals. The concept is to present the energy usage data of all area schools in a way that can be searched, accessed by API and visualized.
 
 ### Live Streaming
 
@@ -203,7 +203,7 @@ Adopt-a-Drain allows individuals to claim responsibility for reporting problems 
 
 ### Cloud Hosting, Cloud Storage, and Cloud Backup
 
-Code for BTV and the Vermont Digital Economy Project would maintain several WordPress Multisite installs, each for a separate non-governmental organization "vertical." Rescue squads, food shelves, job banks, and historical societies could each have their own WordPress Multisite install. A food shelf, for example, in need of a new website could have this website provisioned as part of the food shelf WordPress Multisite install. WordPress Multisite would make the websites much easier to create and maintain. Having all of the websites hosted together would allow the Vermont Digital Economy Project to improve security, provide options for disaster response, share content between organizations, and more easily link the organizations together. This service could be extended to cloud storage and cloud backup available to Vermont’s non-governmental organizations (and possibly local governments).
+Code for BTV and the Vermont Digital Economy Project would maintain several WordPress Multisite installs, each for a separate non-governmental organization "vertical." Rescue squads, food shelves, job banks, and historical societies could each have their own WordPress Multisite install. A food shelf, for example, in need of a new website could have this website provisioned as part of the food shelf WordPress Multisite install. WordPress Multisite would make the websites much easier to create and maintain. Having all of the websites hosted together would allow the Vermont Digital Economy Project to improve security, provide options for disaster response, share content between organizations, and more easily link the organizations together. This service could be extended to cloud storage and cloud backup available to Vermont's non-governmental organizations (and possibly local governments).
 
 Potential Collaborators
 -----------------------
