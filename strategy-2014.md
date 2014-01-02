@@ -93,6 +93,10 @@ BTV Ignite is a partnership between US Ignite and the City of Burlington that is
 
 The Civic Cloud Collaborative, comprised of several Burlington organizations, is exploring what it means to provide public, educational, and government access for producers of Internet applications and digital creative works. The Civic Cloud Collaborative is close to being able to install a full rack of servers within the core of Burlington's municipally-owned gigabit fiber-optic network. These servers will be used to host non-commercial Internet applications, including civic apps, that have community benefit.
 
+#### New Moran
+
+New Moran is a plan to redevelop the landmark Moran Generating Station on Burlington's waterfront into a mixed-use, energy self-sufficient civic space owned by the City of Burlington and operated by a non-profit organization. New Moran will be a hub for community gatherings while supporting human-powered recreation and access to local food, art, energy, and technology. Code for BTV is a New Moran program partner and plans to use New Moran as a community research & development hub, an educational space, and a space for gathering and collaboration.
+
 ### Hackathons
 
 Code for BTV holds a major hackathon about once every four months. These hackathons are opportunities to bring in new participants, build energy, and rally support around specific projects. Significant efforts are put into planning and promoting these hackathons. Each hackathon typically has its own theme, although not all projects worked on at the hackathon revolve around the one theme. Code for BTV hackathons are focused on collaboration and are non-competitive.
