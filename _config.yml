@@ -1,5 +1,5 @@
 safe: true
 lsi: false
 pygments: false
-exclude: LICENSE.md, README.md
+exclude: [LICENSE.md, README.md]
 baseurl: /docs
