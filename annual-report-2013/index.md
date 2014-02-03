@@ -353,9 +353,9 @@ title: Annual Report 2013
             </div>
             <div class="col-md-8">
                 <div class="media">
-                    <img src="img/civic-cloud-collaborative-meeting-780x295.jpg" alt="Several members of the Civic Cloud Collaborative at Big Heavy World" class="img-responsive" />
+                    <img src="img/code-for-btv-and-us-ignite-780x295.jpg" alt="Code for America Brigade Captain Bradley Holt speaks with Glenn Ricart of US Ignite" class="img-responsive" />
                     <div class="caption text-muted text-right">
-                        <p><small>Several members of the Civic Cloud Collaborative at Big Heavy World | <small>Credit: James Lockridge</small></small></p>
+                        <p><small>Code for America Brigade Captain Bradley Holt speaks with Glenn Ricart of US Ignite | <small>Credit: James Lockridge</small></small></p>
                     </div>
                 </div>
                 <article>
